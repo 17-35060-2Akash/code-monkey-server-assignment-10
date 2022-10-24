@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Python :The Complete Pro Bootcamp",
+        "details": "Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because Python code is concise and easy to read. Whatever you want to do, python can do it. From web development to machine learning to data science, Python is the language for you.",
+        "duration": "100 days",
+        "ratings": "8.5",
+        "curriculam": [
+            "Introduction to fundamentals of programming",
+            "Basic Python programming language",
+            "Python usage fields and cientific applications",
+            "From web development to software development"
+        ],
+        "image": "https://i.ibb.co/d2QM785/python1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "c# Zero to Hero",
+        "details": "C# is one of the most popular programming languages and can be used for a variety of things, including mobile applications, game development, and enterprise software. Knowing C# opens a great deal of doors for you as a developer. Join us for staring with us today and get the chance to get hired instantly",
+        "duration": "70 days",
+        "ratings": "",
+        "curriculam": [
+            "Fundamental programming concepts using C#",
+            "Build several projects to help you practice",
+            "Test your knowledge using quizzes.",
+            "Object-oriented programming (OOP)"
+        ],
+        "image": "https://i.ibb.co/K7KNNxX/csharp.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Java Advanced Concepts",
+        "details": "Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. Java can be used for a large number of things, including software development, mobile applications, and large systems development. Knowing Java opens a great deal of doors for you as a developer.",
+        "duration": "50 days",
+        "ratings": "7.5",
+        "curriculam": [
+            "Learn fundamental Java concepts",
+            "Build you own Android app from scratch",
+            "Object-oriented programming (OOP)",
+            "Software development, mobile applications,"
+        ],
+        "image": "https://i.ibb.co/qkXxXWX/java.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Python Deep Learning and CNN With Python",
+        "details": "To become an expert in machine learning, you first need a strong foundation in four learning areas : coding, math, ML theory, and how to build your own ML project from start to finish. Begin with TensorFlow's curated curriculums to improve these four skills, or choose your own learning path",
+        "duration": "30 days",
+        "ratings": "8.5",
+        "curriculam": [
+            "Fundamental Python concepts",
+            "Environment setup with TensorFlow",
+            "Using Google Colab",
+            "Image Processing Algorithms"
+        ],
+        "image": "https://i.ibb.co/9vCGCSv/pythondeep.jpg"
+    },
+    {
+        "id": 5,
+        "name": "c++ Basic to Advanced",
+        "details": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
+        "duration": "60 days",
+        "ratings": "7.0",
+        "curriculam": [
+            "Build core programming concepts",
+            "Object-oriented programming (OOP)",
+            "Understand pointers and memory",
+            "Build C++ projects"
+        ],
+        "image": "https://i.ibb.co/PgdjJKV/cplusplus.jpg"
+    },
+    {
+        "id": 6,
+        "name": "PHP with Real Life Applications",
+        "details": "PHP is a widely used server-side programming language that's become increasingly fast and powerful over the years. PHP works well with HTML and databases, making it a great language for anyone interested in building dynamic web applications. employment for web developers and digital designers, which includes PHP developers, may grow by 13% between 2020 and 2030",
+        "duration": "90 days",
+        "ratings": "8.5",
+        "curriculam": [
+            "Build core web concepts",
+            "Integrating PHP with HTML",
+            "Logical Mastering and working with libraries",
+            "Build Real Life Applocation with PHP"
+        ],
+        "image": "https://i.ibb.co/gR2vFDq/php.jpg"
+    }
+]
