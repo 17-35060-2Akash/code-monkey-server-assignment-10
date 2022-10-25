@@ -1,10 +1,11 @@
 [
     {
         "id": 1,
-        "name": "Python :The Complete Pro Bootcamp",
+        "name": "Python :The Pro Bootcamp",
         "details": "Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because Python code is concise and easy to read. Whatever you want to do, python can do it. From web development to machine learning to data science, Python is the language for you.",
         "duration": "100 days",
         "ratings": "8.5",
+        "course_fee": 73,
         "curriculam": [
             "Introduction to fundamentals of programming",
             "Basic Python programming language",
@@ -15,10 +16,11 @@
     },
     {
         "id": 2,
-        "name": "c# Zero to Hero",
+        "name": "c# Programming Zero to Hero",
         "details": "C# is one of the most popular programming languages and can be used for a variety of things, including mobile applications, game development, and enterprise software. Knowing C# opens a great deal of doors for you as a developer. Join us for staring with us today and get the chance to get hired instantly",
         "duration": "70 days",
-        "ratings": "",
+        "ratings": "9.0",
+        "course_fee": 52,
         "curriculam": [
             "Fundamental programming concepts using C#",
             "Build several projects to help you practice",
@@ -33,6 +35,7 @@
         "details": "Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. Java can be used for a large number of things, including software development, mobile applications, and large systems development. Knowing Java opens a great deal of doors for you as a developer.",
         "duration": "50 days",
         "ratings": "7.5",
+        "course_fee": 47,
         "curriculam": [
             "Learn fundamental Java concepts",
             "Build you own Android app from scratch",
@@ -43,10 +46,11 @@
     },
     {
         "id": 4,
-        "name": "Python Deep Learning and CNN With Python",
+        "name": "Python Deep Learning & CNN",
         "details": "To become an expert in machine learning, you first need a strong foundation in four learning areas : coding, math, ML theory, and how to build your own ML project from start to finish. Begin with TensorFlow's curated curriculums to improve these four skills, or choose your own learning path",
         "duration": "30 days",
         "ratings": "8.5",
+        "course_fee": 25,
         "curriculam": [
             "Fundamental Python concepts",
             "Environment setup with TensorFlow",
@@ -61,6 +65,7 @@
         "details": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
         "duration": "60 days",
         "ratings": "7.0",
+        "course_fee": 47,
         "curriculam": [
             "Build core programming concepts",
             "Object-oriented programming (OOP)",
@@ -71,10 +76,11 @@
     },
     {
         "id": 6,
-        "name": "PHP with Real Life Applications",
+        "name": "PHP with Hot Applications",
         "details": "PHP is a widely used server-side programming language that's become increasingly fast and powerful over the years. PHP works well with HTML and databases, making it a great language for anyone interested in building dynamic web applications. employment for web developers and digital designers, which includes PHP developers, may grow by 13% between 2020 and 2030",
         "duration": "90 days",
         "ratings": "8.5",
+        "course_fee": 69,
         "curriculam": [
             "Build core web concepts",
             "Integrating PHP with HTML",
