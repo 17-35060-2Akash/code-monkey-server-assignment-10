@@ -6,6 +6,10 @@
         "duration": "100 days",
         "ratings": "8.5",
         "course_fee": 73,
+        "classesperweek": "5 days a week, Friday and Saturday Holiday",
+        "classType": "Online",
+        "exams": "One quiz at the end of every module, and Assignments weekly",
+        "guidence": "Live Sessions and consulting on MS TEAMS",
         "curriculam": [
             "Introduction to fundamentals of programming",
             "Basic Python programming language",
@@ -21,10 +25,14 @@
         "duration": "70 days",
         "ratings": "9.0",
         "course_fee": 52,
+        "classesperweek": "5 days a week, Friday and Saturday Holiday",
+        "classType": "Online",
+        "exams": "One quiz at the end of every module, and Assignments weekly",
+        "guidence": "Live Sessions and consulting on MS TEAMS",
         "curriculam": [
             "Fundamental programming concepts using C#",
             "Build several projects to help you practice",
-            "Test your knowledge using quizzes.",
+            "Test your knowledge using quizzes",
             "Object-oriented programming (OOP)"
         ],
         "image": "https://i.ibb.co/K7KNNxX/csharp.jpg"
@@ -36,6 +44,10 @@
         "duration": "50 days",
         "ratings": "7.5",
         "course_fee": 47,
+        "classesperweek": "5 days a week, Friday and Saturday Holiday",
+        "classType": "Online",
+        "exams": "One quiz at the end of every module, and Assignments weekly",
+        "guidence": "Live Sessions and consulting on MS TEAMS",
         "curriculam": [
             "Learn fundamental Java concepts",
             "Build you own Android app from scratch",
@@ -51,6 +63,10 @@
         "duration": "30 days",
         "ratings": "8.5",
         "course_fee": 25,
+        "classesperweek": "5 days a week, Friday and Saturday Holiday",
+        "classType": "Online",
+        "exams": "One quiz at the end of every module, and Assignments weekly",
+        "guidence": "Live Sessions and consulting on MS TEAMS",
         "curriculam": [
             "Fundamental Python concepts",
             "Environment setup with TensorFlow",
@@ -66,6 +82,10 @@
         "duration": "60 days",
         "ratings": "7.0",
         "course_fee": 47,
+        "classesperweek": "5 days a week, Friday and Saturday Holiday",
+        "classType": "Online",
+        "exams": "One quiz at the end of every module, and Assignments weekly",
+        "guidence": "Live Sessions and consulting on MS TEAMS",
         "curriculam": [
             "Build core programming concepts",
             "Object-oriented programming (OOP)",
@@ -81,6 +101,10 @@
         "duration": "90 days",
         "ratings": "8.5",
         "course_fee": 69,
+        "classesperweek": "5 days a week, Friday and Saturday Holiday",
+        "classType": "Online",
+        "exams": "One quiz at the end of every module, and Assignments weekly",
+        "guidence": "Live Sessions and consulting on MS TEAMS",
         "curriculam": [
             "Build core web concepts",
             "Integrating PHP with HTML",
